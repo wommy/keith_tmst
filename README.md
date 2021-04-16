@@ -1,1 +1,5 @@
-# TMST update | 04-06
+# TMST for keith
+
+## build command
+
+`yarn; yarn run build`
